@@ -1,2 +1,2 @@
 # Raspberry Pi Stock Quotes
-Stock quotes project for Raspberry Pi written in Java calling Yahoo YQL web service returning JSON result.
+Raspberry Pi stock quotes project written in Java that calls the Yahoo YQL web service returning a JSON object.
